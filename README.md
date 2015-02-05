@@ -32,7 +32,7 @@ element = h.Peek();		// returns null
 
 ## Running tests:
 ```bash
-nom test
+npm test
 ```
 
 
