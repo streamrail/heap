@@ -1,4 +1,4 @@
-# heap
+# heap [![Circle CI](https://circleci.com/gh/streamrail/heap.svg?style=svg)](https://circleci.com/gh/streamrail/heap)
 npm module of min / max heap, this heap implementation keeps track of value changes
 to its elements through a 'change' event fired by an individual element, in such case the heap
 will reposition its elements to maitain its max / min order.
