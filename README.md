@@ -6,7 +6,7 @@ will reposition its elements to maitain its max / min order.
 ## usage
 
 ```javascript
-var Heap = require('../heap.js');
+var Heap = require('heap.js');
 
 // Max heap compare function.
 var maxHeapCompareFunc = function(a, b) { return a > b; };
